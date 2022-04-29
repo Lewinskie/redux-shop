@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "_id": "flour1",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-01.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "flour2",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-02.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "flour3",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-03.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "flour4",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-04.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "flour5",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-05.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "flour6",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-06.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "flour7",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-07.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "flour8",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-08.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    },
+    {
+      "_id": "flour9",
+      "title": "Sweet potatoe flour",
+      "image": "/images/lables-09.jpg",
+      "description": "about sweet potatoe flour",
+      "price": 200,
+      "availableSizes": ["XL", "XXL"]
+    }
+  ]
+}
